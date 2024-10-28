@@ -1,0 +1,12 @@
+# 実行に必要なライブラリ
+
+transformers
+torch
+Pillow
+timm
+requests
+numpy
+pandas
+opencv-python
+Flask
+SQLAlchemy # データベース操作
