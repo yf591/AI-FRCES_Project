@@ -126,7 +126,7 @@ The installation procedure for running AI-FRCES_Project is as follows:
 
 1. **Clone the project:**
 
-   Clone the project from GitHub. Execute the following command, replacing `your-username` with your GitHub username and `AI-FRCES_Project` with the repository name.
+   Clone the project from GitHub. 
 
    ```bash
    git clone https://github.com/yf591/AI-FRCES_Project.git
