@@ -268,4 +268,3 @@ The AI model used in this project is trained on a specific dataset and therefore
 The code and data of this project are intended for educational and research purposes only, and commercial use is **expressly prohibited**. The developer assumes no responsibility for any damages resulting from the use of this project. Please use it at your own risk.
 
 This project is developed and provided by yf591.
-```
